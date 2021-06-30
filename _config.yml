@@ -46,11 +46,11 @@ instagram_username: badamnshake
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Kartavya and I'm a student at LJIET . As well as a begining game developer,  I also have experience making software and web apps. I have worked on  a number of projects regarding web development and have made some games also.
 
-  I am most skilled in: <mark>Unity (C#)</mark> <mark>React and Nodejs</mark> <mark>Haskell</mark>(Somewhat) and <mark>Drinking Badamnshake</mark>
+  I am most skilled in: <mark>Unity (C#)</mark> <mark>Haskell</mark> and <mark>Drinking Badamnshake</mark>
 
 content:
   - title: Projects # Title for the section
@@ -129,11 +129,13 @@ content:
           During my time at LJIET I learnt alot of my core skills regarding academics as well as soft skills. I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
     layout: text
     content: | # this will include new lines to allow paragraphs
+      <mark>L.J. Institute Of Engineering And Technology</mark> ->> 2022 
+      - Currently studying in LJIET Computer Science, (current CGPA=9.57)
       <mark>Swami Vivekananda School</mark> ->> 2018 
       - I completed HSC (10+2) in Science with 75% and a rank of 5850 in gshseb. 
       
       <mark>Savoday Vidhyamandir</mark> ->> 2016
-      - I completed my SSC with 87 percentage 
+      - I completed my SSC with 87%.  
 
   - title: A Little More About Me
     layout: text
