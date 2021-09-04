@@ -12,7 +12,7 @@ email: kargo.tavhilya@protonmail.com
 website: badamnshake.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -48,9 +48,9 @@ instagram_username: badamnshake
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kartavya and I'm a student at LJIET . As well as a begining game developer,  I also have experience making software and web apps. I have worked on  a number of projects regarding web development and have made some games also.
+  Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made websites with ReactJS and VueJS in the past. I have also made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
 
-  I am most skilled in: <mark>Unity (C#)</mark> <mark>Haskell</mark> and <mark>Drinking Badamnshake</mark>
+  I am most skilled in: <mark> JS frameworks (: </mark> <mark> Unity (C#) </mark> and <mark>Drinking Badamnshake</mark>
 
 content:
   - title: Projects # Title for the section
@@ -71,7 +71,9 @@ content:
           A RPG set in a Sci-fi-ish fantasy land
 
         description: | # this will include new lines to allow paragraphs
-           A game with an uplifting enviornment. I started this after dibbling around in 3D world of games, and have learnt alot from this. It began with an obsession with RPG's and learning about game design, lightning, shading also creating assets when in need of it. I have learnt so much from this.
+           A game with an uplifting enviornment. I started this after dibbling around in 3D world of games,
+           It began with an obsession with RPG's and learning about game design, 
+           lighting, and by implementing shaders i improved framerates by 30% .
       - layout: top-middle
         title: SpaceTrashCleaner
         link: github.com/badamnshake/SpaceTrashCleaner
@@ -101,7 +103,7 @@ content:
         quote: >
           A Brawl Multiplayer Game
         description: | # this will include new lines to allow paragraphs
-          I wanted to learn ins and outs of Multiplayer so i started this project i am still in process of making it. but it has turned out great till now.
+          I wanted to learn ins and outs of Multiplayer so i started this project i am still in process of making it.
   #- title: Experience # Title for the section
   #layout: list # Type of content section (list/text)
   #content:
