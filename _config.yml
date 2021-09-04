@@ -71,9 +71,7 @@ content:
           A RPG set in a Sci-fi-ish fantasy land
 
         description: | # this will include new lines to allow paragraphs
-           A game with an uplifting enviornment. I started this after dibbling around in 3D world of games,
-           It began with an obsession with RPG's and learning about game design, 
-           lighting, and by implementing shaders i improved framerates by 30% .
+          A game with an uplifting environment. I started this after dibbling around in 3D world of games, It began with an obsession with RPG’s and learning about game design, lighting, and by implementing shaders I improved frame rates by 30%.
       - layout: top-middle
         title: SpaceTrashCleaner
         link: github.com/badamnshake/SpaceTrashCleaner
@@ -88,7 +86,7 @@ content:
         quote: >
           A simple beat the highscore 2D game
         description: | # this will include new lines to allow paragraphs
-          I started this project mainly to learn about vector math and explore more in 2D and shaders, i have learned how to make particle systems along the way and implemented alot of math.
+          I started this project mainly to learn about vector math and explore more in 2D and shaders, I have learned how to make particle systems along the way and implemented a lot of math.
       - layout: top-middle
         title: MiniArena
         link: github.com/badamnshake/Mini-Arena
@@ -103,7 +101,7 @@ content:
         quote: >
           A Brawl Multiplayer Game
         description: | # this will include new lines to allow paragraphs
-          I wanted to learn ins and outs of Multiplayer so i started this project i am still in process of making it.
+          I wanted to learn the ins and outs of Multiplayer, so I started this project, I am still in the process of making it.
   #- title: Experience # Title for the section
   #layout: list # Type of content section (list/text)
   #content:
