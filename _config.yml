@@ -48,9 +48,9 @@ instagram_username: badamnshake
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made websites with ReactJS and VueJS in the past. I have also made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
+  Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
 
-  I am most skilled in: <mark> JS frameworks (: </mark> <mark> Unity (C#) </mark> and <mark>Drinking Badamnshake</mark>
+  I am most skilled in: <mark> Unity Game Engine </mark> <mark> Shaders </mark> and <mark>Drinking Badamnshake</mark>
 
 content:
   - title: Projects # Title for the section
