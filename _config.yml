@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 #twitter_username: facespics
-github_username:  badamnshake
+github_username: badamnshake
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -45,7 +45,7 @@ instagram_username: badamnshake
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+#about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
 
@@ -63,9 +63,9 @@ content:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
         #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A RPG set in a Sci-fi-ish fantasy land
 
@@ -79,9 +79,9 @@ content:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
         #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A simple beat the highscore 2D game
         description: | # this will include new lines to allow paragraphs
@@ -94,48 +94,33 @@ content:
         #  - title:  sproogen/modern-resume-theme
         #    icon: fab fa-github
         #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A Brawl Multiplayer Game
         description: | # this will include new lines to allow paragraphs
           I wanted to learn the ins and outs of Multiplayer, so I started this project, I am still in the process of making it.
-  - title: Experience # Title for the section
-  layout: list # Type of content section (list/text)
-  content:
-  - layout: left
-  title: Synoptek 
-        link: synoptek.com
-        link_text: synoptek.com
-        sub_title: Internship
-        caption: January 2022 - Present
-        quote: >
-        Fullstack Development with Microservices using .Net and Angular
-        description: | # this will include new lines to allow paragraphs
-        Worked with .Net microservice architecture fullstack projects with angular as its frontend also wrote database queries and worked as fullstack engineeer.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
-      - layout: left
-        title: L.J. Institute of engineering and technology
-        caption: 2018 - 2022
-        sub_title: Computer Science
-        quote: >
-          LJIET is well known institute affiliated with GTU, located in Ahmedabad, Gujarat
+      - layout: right
+        title: Synoptek
+        sub_title: Intern (Fullstack .Net and Microservices)
+        caption: January 2022 - present)
         description: | # this will include new lines to allow paragraphs
-          During my time at LJIET I learnt alot of my core skills regarding academics as well as soft skills. I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases
+  - title: Education # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       <mark>L.J. Institute Of Engineering And Technology</mark> ->> 2022 
       - Currently studying in LJIET Computer Science, (current CGPA=9.57)
-      
+
       <mark>Swami Vivekananda School</mark> ->> 2018 
       - I completed HSC (10+2) in Science with 75% and a rank of 5850 in gshseb. 
-      
+
       <mark>Savoday Vidhyamandir</mark> ->> 2016
-      - I completed my SSC with 87%.  
+      - I completed my SSC with 87%.
 
   - title: A Little More About Me
     layout: text
@@ -145,7 +130,6 @@ content:
       - [Gaming](https://youtu.be/hIRtSMToM6s)
       - [Linguistics  currently at N5 in japanese](https://www.youtube.com/watch?v=XLj9QtidiTo)
       - [Becoming a Spider](https://youtu.be/6Ron-Ikenfc)
-
 
 # Footer
 #footer_show_references: true
@@ -159,4 +143,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
