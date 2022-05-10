@@ -109,7 +109,7 @@ content:
         sub_title: Intern (Fullstack .Net and Microservices)
         caption: January 2022 - present)
         description: | # this will include new lines to allow paragraphs
-          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases
+          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Worked in Live project.
   - title: Education # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
