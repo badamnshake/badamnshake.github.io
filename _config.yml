@@ -104,7 +104,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Synoptek
         sub_title: Intern (Fullstack .Net and Microservices)
         caption: January 2022 - present)
