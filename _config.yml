@@ -47,9 +47,9 @@ instagram_username: badamnshake
 # About Section
 #about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
-
-  I am most skilled in: <mark> Unity Game Engine </mark> <mark> Shaders </mark> and <mark>Drinking Badamnshake</mark>
+  Hi, My name is Kartavya Gohil, I am currently pursuing an Internship at Synoptek. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
+  I have worked with .Net Microservices, Angular in current internship, and also React and Nodejs (did some freelance projects).
+  I am most skilled in: <mark> Unity Game Engine </mark> <mark> Shaders </mark> and <mark>Game Physics</mark>
 
 content:
   - title: Projects # Title for the section
