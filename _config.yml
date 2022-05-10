@@ -45,7 +45,7 @@ instagram_username: badamnshake
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Kartavya Gohil, I am currently pursuing a bachelor's in computer engineering at LJIET. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
 
