@@ -22,7 +22,7 @@ github_username: badamnshake
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: badamnshake
-linkedin_username: https://www.linkedin.com/in/kartavya-gohil-b25945210
+linkedin_username: kartavya-gohil-b25945210
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -49,7 +49,7 @@ linkedin_username: https://www.linkedin.com/in/kartavya-gohil-b25945210
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Kartavya Gohil, I am currently pursuing an Internship at Synoptek. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
   I have worked with .Net Microservices, Angular in current internship, and also React and Nodejs (did some freelance projects).
-  I am most skilled in: <mark> Unity Game Engine </mark> <mark> Shaders </mark> and <mark>Game Physics</mark>
+  I am most skilled in: <mark>Nodejs</mark> , <mark>.Net</mark> and <mark>Unity Game Engine</mark>
 
 content:
   - title: Experience
@@ -64,9 +64,9 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Job Portal
-        link: https://github.com/badamnshake/jobportal
+        link: github.com/badamnshake/jobportal
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -79,7 +79,7 @@ content:
           Angular, .Net and SQL Server
         description: | # this will include new lines to allow paragraphs
           A project made with microservice architecture in the backend,Employers can create vacancies and Job seekers can apply to the posted jobs, I also leveraged Sql stored procedures. various features include Authentication, RBAC and modern architecture.
-      - layout: left
+      - layout: top-middle
         title: Exam System
         # link: github.com/badamnshake/SpaceTrashCleaner
         # link_text: Project Website
@@ -94,7 +94,7 @@ content:
           React and Nestjs (Freelance)
         description: | # this will include new lines to allow paragraphs
           The Exam system has two user types. A teacher can categorize questions by subject, chapter and can create an exam for a particular subject. A student can take the exam and can answer the questions.
-      - layout: left
+      - layout: top-middle
         title: RPG Adventure 3D
         link: github.com/badamnshake/RPGAdventure3D
         # link_text: Project Website
@@ -106,7 +106,7 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          An RPG Game made with Unity (final year student project)
+          An RPG game made with Unity (final year student project)
         description: | # this will include new lines to allow paragraphs
           It started with obsession with RPG games. I used Unity and C# to create the game. It is a 3D game where the player can move around and interact with the environment. I also used shaders, cinemachine and  designed the game with 3d assets.
   - title: Education # Title for the section
@@ -116,7 +116,7 @@ content:
       - Computer Engineering, with 9.26 CGPA 
 
       <mark>Swami Vivekananda School</mark> ->> 2018 
-      - I completed HSC (10+2) in Science with 75% and a rank of 5850 in gshseb. 
+      - I completed HSC (10+2) in Science with 75%. 
 
       <mark>Savoday Vidhyamandir</mark> ->> 2016
       - I completed my SSC with 87%.
