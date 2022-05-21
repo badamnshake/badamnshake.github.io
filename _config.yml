@@ -125,10 +125,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in game programming and software engineering some of my other interests and hobbies are:
-      - [Reading (pirated ebooks!)](https://www.youtube.com/watch?v=LZgeIReY04c)
-      - [Gaming](https://youtu.be/hIRtSMToM6s)
-      - [Linguistics  currently at N5 in japanese](https://www.youtube.com/watch?v=XLj9QtidiTo)
-      - [Dancing!!!](https://youtu.be/6Ron-Ikenfc)
+      - [Reading (pirated ebooks!)](https://www.youtube.com/watch?v=LZgeIReY04c), [Gaming](https://youtu.be/hIRtSMToM6s), [Linguistics (N5 in japanese)](https://www.youtube.com/watch?v=XLj9QtidiTo), [Dancing!!!](https://youtu.be/6Ron-Ikenfc)
 
 # Footer
 #footer_show_references: true
