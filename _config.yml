@@ -47,9 +47,9 @@ linkedin_username: kartavya-gohil-b25945210
 # About Section
 #about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  Hi, My name is Kartavya Gohil, I am currently pursuing an Internship at Synoptek. I have made a few Games in Unity. I have also wasted few weeks tinkering my Linux Distro.
-  I have worked with .Net Microservices, Angular in current internship, and also React and Nodejs (did some freelance projects).
-  I am most skilled in: <mark>Nodejs</mark> , <mark>.Net</mark> and <mark>Unity Game Engine</mark>
+  Hi, I am Kartavya Gohil, I am currently pursuing an Internship at Synoptek. I have made a few games in Unity. I have also wasted few weeks tinkering my linux distro.
+  I have worked with .Net microservices, Angular in current internship, and also React and Nodejs (did some freelance projects).
+  I am most skilled in: <mark>Nodejs</mark> , <mark>.Net</mark> and <mark>Unity</mark>
 
 content:
   - title: Experience
@@ -60,7 +60,7 @@ content:
         sub_title: Intern (Fullstack .Net and Microservices)
         caption: January 2022 - present
         description: | # this will include new lines to allow paragraphs
-          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Worked in Live project.
+          I worked with .Net and Angular with microservices architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Currently working in live project.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,7 +78,7 @@ content:
         quote: >
           Angular, .Net and SQL Server
         description: | # this will include new lines to allow paragraphs
-          A project made with microservice architecture (with api gateway and seperation of databases) in the backend, Employers can create vacancies and Job seekers can apply to the posted jobs, I also leveraged Sql stored procedures. various features include Authentication, RBAC and modern architecture.
+          A project made with microservice architecture (with api gateway and seperation of databases) in the backend. The project has two roles for users. Employers can create vacancies and Job seekers can apply to the posted jobs, I also leveraged stored procedures in SQL server. various features include authentication, RBAC and modern architecture.
       - layout: top-middle
         title: Exam System
         # link: github.com/badamnshake/SpaceTrashCleaner
@@ -93,7 +93,7 @@ content:
         quote: >
           React and Nestjs (Freelance)
         description: | # this will include new lines to allow paragraphs
-          The Exam system has two user types. A teacher can categorize questions by subject, chapter and can create an exam for a particular subject. A student can take the exam and can answer the questions. A student's performance and history is saved and can be viewed by the teacher. The performance report includes graphs and subject wise data. A test can be conducted by the teacher for the whole class and the results can be compared and are stored in the database for future analysis and assesment.
+          The exam system has two user types. A teacher can categorize questions by subject, chapter and can create an exam for a particular subject. A student can take the exam and can answer the questions. A student's performance and history is saved and can be viewed by the teacher. The performance report includes graphs and subject wise data. A test can be conducted by the teacher for the whole class and the results can be compared and are stored in the database for future analysis and assesment.
       - layout: top-middle
         title: RPG Adventure 3D
         link: github.com/badamnshake/RPGAdventure3D
@@ -116,7 +116,7 @@ content:
       - Computer Engineering, with 9.26 CGPA 
 
       <mark>Swami Vivekananda School</mark> ->> 2018 
-      - I completed HSC (10+2) in Science with 75% and a rank of 5850 in gshseb. 
+      - I completed HSC (10+2) in Science with 75%. 
 
       <mark>Savoday Vidhyamandir</mark> ->> 2016
       - I completed my SSC with 87%.
