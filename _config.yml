@@ -21,8 +21,8 @@ github_username: badamnshake
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: badamnshake
-#linkedin_username: jameswgrant
+# instagram_username: badamnshake
+linkedin_username: https://www.linkedin.com/in/kartavya-gohil-b25945210
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -52,11 +52,50 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark> Unity Game Engine </mark> <mark> Shaders </mark> and <mark>Game Physics</mark>
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Synoptek
+        sub_title: Intern (Fullstack .Net and Microservices)
+        caption: January 2022 - present
+        description: | # this will include new lines to allow paragraphs
+          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Worked in Live project.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Adventurer's Treasure
+      - layout: left
+        title: Job Portal
+        link: https://github.com/badamnshake/jobportal
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Angular, .Net and SQL Server
+        description: | # this will include new lines to allow paragraphs
+          A project made with microservice architecture in the backend,Employers can create vacancies and Job seekers can apply to the posted jobs, I also leveraged Sql stored procedures. various features include Authentication, RBAC and modern architecture.
+      - layout: left
+        title: Exam System
+        # link: github.com/badamnshake/SpaceTrashCleaner
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          React and Nestjs (Freelance)
+        description: | # this will include new lines to allow paragraphs
+          The Exam system has two user types. A teacher can categorize questions by subject, chapter and can create an exam for a particular subject. A student can take the exam and can answer the questions.
+      - layout: left
+        title: RPG Adventure 3D
         link: github.com/badamnshake/RPGAdventure3D
         # link_text: Project Website
         #additional_links:
@@ -67,54 +106,14 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          A RPG set in a Sci-fi-ish fantasy land
-
+          An RPG Game made with Unity (final year student project)
         description: | # this will include new lines to allow paragraphs
-          A game with an uplifting environment. I started this after dibbling around in 3D world of games, It began with an obsession with RPG’s and learning about game design, lighting, and by implementing shaders I improved frame rates by 30%.
-      - layout: top-middle
-        title: SpaceTrashCleaner
-        link: github.com/badamnshake/SpaceTrashCleaner
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          A simple beat the highscore 2D game
-        description: | # this will include new lines to allow paragraphs
-          I started this project mainly to learn about vector math and explore more in 2D and shaders, I have learned how to make particle systems along the way and implemented a lot of math.
-      - layout: top-middle
-        title: MiniArena
-        link: github.com/badamnshake/Mini-Arena
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          A Brawl Multiplayer Game
-        description: | # this will include new lines to allow paragraphs
-          I wanted to learn the ins and outs of Multiplayer, so I started this project, I am still in the process of making it.
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Synoptek
-        sub_title: Intern (Fullstack .Net and Microservices)
-        caption: January 2022 - present)
-        description: | # this will include new lines to allow paragraphs
-          I worked with Dotnet and Angular with Microservices Architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Worked in Live project.
+          It started with obsession with RPG games. I used Unity and C# to create the game. It is a 3D game where the player can move around and interact with the environment. I also used shaders, cinemachine and  designed the game with 3d assets.
   - title: Education # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
       <mark>L.J. Institute Of Engineering And Technology</mark> ->> 2022 
-      - Currently studying in LJIET Computer Science, (current CGPA=9.57)
+      - Computer Engineering, with 9.26 CGPA 
 
       <mark>Swami Vivekananda School</mark> ->> 2018 
       - I completed HSC (10+2) in Science with 75% and a rank of 5850 in gshseb. 
@@ -129,7 +128,7 @@ content:
       - [Reading (pirated ebooks!)](https://www.youtube.com/watch?v=LZgeIReY04c)
       - [Gaming](https://youtu.be/hIRtSMToM6s)
       - [Linguistics  currently at N5 in japanese](https://www.youtube.com/watch?v=XLj9QtidiTo)
-      - [Becoming a Spider](https://youtu.be/6Ron-Ikenfc)
+      - [Dancing!!!](https://youtu.be/6Ron-Ikenfc)
 
 # Footer
 #footer_show_references: true
