@@ -9,6 +9,7 @@ version: 2
 name: Helly Gohil
 title: Bachelor of Computer Engineering
 email: hellygohil43559@gmail.com
+phone: 9328063146
 # website: badamnshake.github.io
 
 # Dark Mode (true/false/never)
@@ -49,8 +50,8 @@ darkmode: never
 about_content: | # this will include new lines to allow paragraphs
   Hi, My name is Helly Gohil, I am currently pursuing an Bachelor
   of Engineering at GEC Gandlhinagar. I have made a few projects
-  in React. I have also wasted few weeks tinkering my Linux
-  Distro. I am most skilled in: <mark> Javascript </mark>
+  in React. I have worked DS and Algo to learn time complexities and optimization. I have also wasted few weeks tinkering my Linux
+  Distro. I am most skilled in: <mark> Javascript </mark> , 
   <mark> Java </mark> and <mark> React </mark>
 
 content:
@@ -58,28 +59,28 @@ content:
     layout: list
     content:
       - layout: left
-        title: Cyber safety and security awareness workshop
-        # sub_title: Cyber safety and security awareness workshop
+        title: Security Workshop
+        sub_title: Cyber safety and security awareness workshop
         caption: Sept 2019
         description: | # this will include new lines to allow paragraphs
           Learned about Cyber Security and many other topics related to
           it. Researched and made a presentation about cyber security. I
           gave talks to students on various level in many schools.
       - layout: left
-        title: Summer Internship at INFOLABZ IT SERVICE PVT.LTD
-        # sub_title: Cyber safety and security awareness workshop
+        title: INFOLABZ IT
+        sub_title: Summer Internship at INFOLABZ IT SERVICE PVT.LTD
         caption: June 2022
         description: | # this will include new lines to allow paragraphs
           Worked with Pre-made API's to create dynamic web pages. mostly
           using Vanilla javascript and html and css. Also used modern
-          syntax and fetch API to get the data and display
+          syntax and fetch API to get the data and display accordingly.
         # I worked with .Net and Angular with microservices architecture and with SQL Databases. Learned about various design patterns in backend and clean architecture. Currently working in live project.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Movie Seat Booking
-        # link: github.com/badamnshake/jobportal
+        link: https://helly-gohil.github.io/movie_seat_booking/
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -98,7 +99,7 @@ content:
         # A project made with microservice architecture (with api gateway and seperation of databases) in the backend. The project has two roles for users. Employers can create vacancies and Job seekers can apply to the posted jobs, I also leveraged stored procedures in SQL server. various features include authentication, RBAC and modern architecture.
       - layout: top-middle
         title: Dad Jokes Project
-        # link: github.com/badamnshake/SpaceTrashCleaner
+        link: github.com/Helly-Gohil/dad-jokes
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -115,7 +116,7 @@ content:
           jokes.
       - layout: top-middle
         title: Apna-Cart
-        # link: github.com/badamnshake/RPGAdventure3D
+        link: github.com/Helly-Gohil/apna_cart
         # link_text: Project Website
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -148,7 +149,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in game programming and software engineering some of my other interests and hobbies are:
-      - [Reading (pirated ebooks!)](https://www.youtube.com/watch?v=LZgeIReY04c), [Gaming](https://youtu.be/hIRtSMToM6s), [Garba](https://www.youtube.com/watch?v=XLj9QtidiTo), [Dancing!!!](https://youtu.be/6Ron-Ikenfc)
+      - [Reading (pirated ebooks!)](https://www.youtube.com/watch?v=LZgeIReY04c), [Gaming](https://youtu.be/hIRtSMToM6s), [Garba](https://www.youtube.com/shorts/32UUefj7hvo), [Dancing!!!](https://youtu.be/6Ron-Ikenfc)
 
 # Footer
 #footer_show_references: true
